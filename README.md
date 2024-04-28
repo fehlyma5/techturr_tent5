@@ -4,6 +4,7 @@ A solução denominada PostalTrip visa integrar os diferentes segmentos que se r
 em uma plataforma unica, no inuito de aproximar a experiencia do usuario ao do empresario local.
 
 
+![WhatsApp Image 2024-04-27 at 21 03 03](https://github.com/fehlyma5/techturr_tent5/assets/58094879/803698f8-b803-42e7-9e9b-51af17cce668)
 
 
 
